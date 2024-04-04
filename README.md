@@ -1,6 +1,10 @@
 # EcoCemento Monte Caldera
 
-El estudio y caracterización de materiales fuera del equilibrio termodinámico como el cemento es un problema abierto[1,2,3].
+El estudio y caracterización de materiales fuera del equilibrio termodinámico como el cemento es un problema abierto[1,2,3]. En general, la química del cemento depende fuertemente de las fracciones molares del CaO (óxido de calcio), el SiO2 (dióxido de silicio) y el Al2O3 (óxido de aluminio) y los eventuales productos luego de el proceso de calentamiento de estos reactivos. De manera fundamental, hay dos fenómenos fuertemente involugrados, por un lado las reacciones químicas involucradas y por otro los procesos de difusión para sistemas fuera del equilibrio termodinámico[5]. Desde los años 80s se han propuesto diferentes alternativas para atacar el problema conocido como reacción-difusión[6]. Para la componente asociada a la cinética química se han utilizado propuestas que en cierta medida son bien conocida [5, 6] sin embargo, para la componente de difusión únicamente se a logrado describir usando aproximaciones sencillas como la ecuación de difusión de Fick[7]. 
+
+Teorías apoyadas principalmente en formulaciones basadas en conceptos de equilibrio termodinámico han logrado importantes avances en esta materia [8, 9, 10]. Sin embargo, estas se encuentran intrínsecamente ligadas a una constricción fundamental asociada al equilibrio termodinámico [11]. 
+
+Para atacar este problema fundamental, el equipo de Monte Caldera pertenece a un grupo de investigación que estudia la relajación estructural de sólidos amorfos.
 
 
 
@@ -15,3 +19,16 @@ El estudio y caracterización de materiales fuera del equilibrio termodinámico 
 [4] Modelling the cement process and cement clinker quality Bodil Hökfors, Matias Eriksson, and Erik Viggh Advances in Cement Research 2014 26:6, 311-318. https://doi.org/10.1680/adcr.13.00050
 
 [5] J. Keizer, Statistical Thermodynamics of Non-Equilibrium Processes (Springer-Verlag, 1987). 
+
+[6] Keizer, J., & Medina-Noyola, M. (1982). Spatially nonlocal fluctuation theories: Hydrodynamic fluctuations for simple fluids. Physica A: Statistical Mechanics and its Applications, 115(3), 301-338. https://doi.org/10.1016/0378-4371(82)90027-9
+
+[7] W.T. Coffey, Y.P. Kalmykov and J.T. Waldron, The Langevin Equation with Applications to Stochastic Problems in Physics, Chemistry and Electrical Engineering, 2nd Revised ed. (World Scientific Publishing Company, 2004).
+
+[8] W. Götze, in Liquids, Freezing and Glass Transition, edited by J. P. Hansen, D. Levesque, and J. Zinn-Justin (North- Holland, Amsterdam, 1991).
+
+[9] L. Yeomans-Reyna and M. Medina-Noyola, Phys. Rev. E 64, 066114 (2001). doi:10.1103/PhysRevE.64.066114
+
+[10] L. Yeomans-Reyna, H. Acuña-Campa, F. de J. Guevara-Rodríguez and M. Medina-Noyola, Phys. Rev. E 67, 021108-1 a 13 (2003). doi:10.1103/PhysRevE.67.021108
+
+[11] Peredo-Ortiz, R., Elizondo-Aguilera, L. F., Ramírez-González, P., Lázaro-Lázaro, E., Mendoza-Méndez, P., & Medina-Noyola, M. (2023). Non-equilibrium Onsager–Machlup theory. Molecular Physics. https://doi.org/10.1080/00268976.2023.2297991
+
