@@ -8,8 +8,6 @@ Para atacar este problema fundamental, el equipo de Monte Caldera pertenece a un
 
 La teoría NE-SCGLE se ha aplicado al estudio de la formación de diversos materiales, desde geles y vidrios hasta materiales duros como el hierro y el acero. Además, la teoría se ha extendido a sistemas multicomponentes para estudiar el envejecimiento de materiales "dobles". La capacidad de la teoría para predecir nuevas fases y diagramas de fase dependientes del tiempo la convierte en una herramienta valiosa para la investigación de materiales.
 
-
-
 ## Referencias
 
 [1] Ioannidou, K., Kanduč, M., Li, L. et al. The crucial effect of early-stage gelation on the mechanical properties of cement hydrates. Nat Commun 7, 12106 (2016). https://doi.org/10.1038/ncomms12106
