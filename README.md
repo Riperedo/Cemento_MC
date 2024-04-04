@@ -4,7 +4,9 @@ El estudio y caracterización de materiales fuera del equilibrio termodinámico 
 
 Teorías apoyadas principalmente en formulaciones basadas en conceptos de equilibrio termodinámico han logrado importantes avances en esta materia [8, 9, 10]. Sin embargo, estas se encuentran intrínsecamente ligadas a una constricción fundamental asociada al equilibrio termodinámico [11]. 
 
-Para atacar este problema fundamental, el equipo de Monte Caldera pertenece a un grupo de investigación que estudia la relajación estructural de sólidos amorfos.
+Para atacar este problema fundamental, el equipo de Monte Caldera pertenece a un grupo de investigación que estudia la relajación estructural de sólidos amorfos. Nuestra investigación es conocida como la Teoría de la Ecuación Generalizada de Langevin fuera del Equilibrio (NESCGLE por sus siglas en inglés)[11, 12, 13, 14]. La teoría NE-SCGLE, propuesta hace poco más de una década, ha sido utilizada para estudiar una gran variedad de sistemas en desequilibrio, prediciendo con éxito diversas características de su relajación. La teoría ha permitido describir la formación de vidrios y geles a partir de la solidificación de líquidos fuera de equilibrio, así como la transformación de líquidos en vidrios de esfera dura. Además, la teoría ha predicho la existencia de nuevas fases como geles y vidrios porosos, y ha explicado la interacción entre la descomposición espinodal, la gelificación y la transición vítrea.
+
+La teoría NE-SCGLE se ha aplicado al estudio de la formación de diversos materiales, desde geles y vidrios hasta materiales duros como el hierro y el acero. Además, la teoría se ha extendido a sistemas multicomponentes para estudiar el envejecimiento de materiales "dobles". La capacidad de la teoría para predecir nuevas fases y diagramas de fase dependientes del tiempo la convierte en una herramienta valiosa para la investigación de materiales.
 
 
 
@@ -32,3 +34,8 @@ Para atacar este problema fundamental, el equipo de Monte Caldera pertenece a un
 
 [11] Peredo-Ortiz, R., Elizondo-Aguilera, L. F., Ramírez-González, P., Lázaro-Lázaro, E., Mendoza-Méndez, P., & Medina-Noyola, M. (2023). Non-equilibrium Onsager–Machlup theory. Molecular Physics. https://doi.org/10.1080/00268976.2023.2297991
 
+[12] P.E. Ramírez-González, Tesis de Doctorado, Instituto de Física, Universidad Autónoma de San Luis Potosí, 2010.
+
+[13] P.E. Ramírez-González and M. Medina-Noyola, Phys. Rev. E 82, 061503 (2010). doi:10.1103/PhysRevE.82.061503
+
+[14] P.E. Ramírez-González and M. Medina-Noyola, Phys. Rev. E 82, 061504 (2010). doi:10.1103/PhysRevE.82.061504
